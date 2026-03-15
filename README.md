@@ -13,7 +13,6 @@ Welcome to my Portfolio Website project! This repository contains the source cod
 ## Technologies Used
 
 - HTML5, CSS3, JavaScript
-- [Add any other relevant technologies]
 
 ## Getting Started
 
